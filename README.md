@@ -4,8 +4,8 @@ You can clone this and add your own personal notes and remove mine.
 
 | Sno | COMPANIES            | Note                                                               |
 | --- | -------------------- | ------------------------------------------------------------------ |
-| 1   | CureFit              |                                                                    |
-| 2   | Goldman Sachs        |                                                                    |
+| 1   | CureFit              |   D                                                                 |
+| 2   | Goldman Sachs        |                                                                   |
 | 3   | SalesForce           |                                                                    |
 | 4   | SAP Labs             |                                                                    |
 | 5   | Qualcomm             |                                                                    |
